@@ -1,0 +1,7 @@
+{
+	"name": "Startup-Page",
+	"version": "1.0",
+	"description": "Utilities for a custom startup page.",
+  	"default_locale": "en",
+  	"author": "Nikhil Jain"
+}
